@@ -10,7 +10,7 @@ def principal():
     print("ADMINISTRATOR")
     print("Sistema de automatización para NeuroExperimenter")
     print("Version: 1.1")
-    print("Creado por: Ossiel Jalomo")
+    print("Creado por: Ossiel")
     print("email: cristian_ossi@hotmail.com")
     print("-------------------------------------------------")
     time.sleep(4)
